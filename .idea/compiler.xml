@@ -7,13 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="AmazonMobileApp" />
-        <module name="crricBuzz" />
+        <module name="cricBuzz" />
         <module name="Generic" />
         <module name="NYP1" />
         <module name="UICatalog" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cricBuzz" target="1.8" />
       <module name="instagram" target="1.8" />
     </bytecodeTargetLevel>
   </component>

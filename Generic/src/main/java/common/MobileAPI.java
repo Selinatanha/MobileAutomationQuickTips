@@ -1,25 +1,33 @@
 package common;
+import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.LogStatus;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.remote.MobilePlatform;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Parameters;
+import org.testng.ITestContext;
+import org.testng.ITestResult;
+import org.testng.annotations.*;
+import reporting.ExtentManager;
+import reporting.ExtentTestManager;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.io.StringWriter;
+import java.lang.reflect.Method;
 import java.net.URL;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
@@ -34,10 +42,72 @@ public class MobileAPI {
     public File findApp = null;
     public DesiredCapabilities cap = null;
 
+
+
+    /**************** Reporting ****************/
+
+    public static ExtentReports extent;
+    @BeforeSuite
+    public void extentSetup(ITestContext context) {
+        ExtentManager.setOutputDirectory(context);
+        extent = ExtentManager.getInstance();
+    }
+    @BeforeMethod
+    public void startExtent(Method method) {
+        String className = method.getDeclaringClass().getSimpleName();
+        String methodName = method.getName().toLowerCase();
+        ExtentTestManager.startTest(method.getName());
+        ExtentTestManager.getTest().assignCategory(className);
+    }
+    protected String getStackTrace(Throwable t) {
+        StringWriter sw = new StringWriter();
+        PrintWriter pw = new PrintWriter(sw);
+        t.printStackTrace(pw);
+        return sw.toString();
+    }
+    @AfterMethod
+    public void afterEachTestMethod(ITestResult result) {
+        ExtentTestManager.getTest().getTest().setStartedTime(getTime(result.getStartMillis()));
+        ExtentTestManager.getTest().getTest().setEndedTime(getTime(result.getEndMillis()));
+
+        for (String group : result.getMethod().getGroups()) {
+            ExtentTestManager.getTest().assignCategory(group);
+        }
+
+        if (result.getStatus() == 1) {
+            ExtentTestManager.getTest().log(LogStatus.PASS, "Test Passed");
+        } else if (result.getStatus() == 2) {
+            ExtentTestManager.getTest().log(LogStatus.FAIL, getStackTrace(result.getThrowable()));
+        } else if (result.getStatus() == 3) {
+            ExtentTestManager.getTest().log(LogStatus.SKIP, "Test Skipped");
+        }
+        ExtentTestManager.endTest();
+        extent.flush();
+        if (result.getStatus() == ITestResult.FAILURE) {
+            captureScreenshot(ad, result.getName());
+        }
+//        driver.quit();
+    }
+    @AfterSuite
+    public void generateReport() {
+        extent.close();
+    }
+    private Date getTime(long millis) {
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTimeInMillis(millis);
+        return calendar.getTime();
+    }
+
+    /*************** Reporting *****************/
+
+
+
+
     @Parameters({"OS","appType","deviceType", "deviceName","version","file","fileName"})
     @BeforeMethod
-    public void setUp(String OS,String appType,String deviceType,String deviceName,
-                      String version,String file,String fileName)throws IOException,InterruptedException{
+    public void setUp(@Optional("Android") String OS, @Optional("Phone") String appType,@Optional("Emulator") String deviceType,
+                      @Optional("Galaxy s6 edge") String deviceName,
+                     @Optional("7") String version, @Optional("src/app") String file, @Optional("Cricbuzz.apk") String fileName)throws IOException,InterruptedException{
 
         if(OS.equalsIgnoreCase("ios")){
             if(appType.contains("iPhone")){
@@ -181,8 +251,8 @@ public class MobileAPI {
         }
         System.out.println("Ending Process");
     }
-    public void scrollToElement(AppiumDriver driver, String text){
-        MobileElement we = (MobileElement) driver.findElementByXPath(text);
+    public void scrollToElement(AppiumDriver driver, String element){
+        MobileElement we = (MobileElement) driver.findElementByXPath(element);
         driver.scrollTo(we.getText());
     }
     public void alertAccept(WebDriver driver){
@@ -196,6 +266,27 @@ public class MobileAPI {
     }
     public void scrollAndClickByName(String locator){
         ad.scrollTo(locator).click();
+    }
+
+    public static void captureScreenshot(WebDriver driver, String screenshotName) {
+        DateFormat df = new SimpleDateFormat("(MM.dd.yyyy-HH:mma)");
+        Date date = new Date();
+        df.format(date);
+
+        File file = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+        try {
+            //FileUtils.copyFile(file, new File(System.getProperty("user.dir") + "/screenshots/" + screenshotName + " " + df.format(date) + ".png"));
+            System.out.println("Screenshot captured");
+        } catch (Exception e) {
+            System.out.println("Exception while taking screenshot " + e.getMessage());
+
+        }
+
+    }
+    public static String convertToString(String st) {
+        String splitString = "";
+        //splitString = StringUtils.join(StringUtils.splitByCharacterTypeCamelCase(st), ' ');
+        return splitString;
     }
 }
 

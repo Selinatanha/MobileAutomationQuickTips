@@ -12,7 +12,7 @@
         <module>Generic</module>
         <module>NYP1</module>
         <module>UICatalog</module>
-        <module>crricBuzz</module>
+        <module>cricBuzz</module>
         <module>AmazonMobileApp</module>
     </modules>
 
@@ -24,7 +24,6 @@
                 <artifactId>testng</artifactId>
                 <version>6.9.6</version>
             </dependency>
-
             <dependency>
                 <groupId>io.appium</groupId>
                 <artifactId>java-client</artifactId>
@@ -35,6 +34,37 @@
                 <artifactId>poi</artifactId>
                 <version>3.13-beta1</version>
             </dependency>
+            <dependency>
+                <groupId>com.aventstack</groupId>
+                <artifactId>extentreports</artifactId>
+                <version>3.0.7</version>
+            </dependency>
+            <dependency>
+                <groupId>com.relevantcodes</groupId>
+                <artifactId>extentreports</artifactId>
+                <version>2.41.1</version>
+            </dependency>
+            <dependency>
+                <groupId>mysql</groupId>
+                <artifactId>mysql-connector-java</artifactId>
+                <version>8.0.15</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.apis</groupId>
+                <artifactId>google-api-services-sheets</artifactId>
+                <version>v4-rev569-1.25.0</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.oauth-client</groupId>
+                <artifactId>google-oauth-client-java6</artifactId>
+                <version>1.28.0</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.oauth-client</groupId>
+                <artifactId>google-oauth-client-jetty</artifactId>
+                <version>1.28.0</version>
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 

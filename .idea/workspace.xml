@@ -78,44 +78,25 @@
       <change afterPath="$PROJECT_DIR$/../MIDTERM/src/oopDesign/BOABrooklyn.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MIDTERM/src/oopDesign/BOAManhattan.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MIDTERM/src/oopDesign/BOARules.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonMobileApp/AmazonMobileApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonMobileApp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonMobileApp/src/app/Amazon Shopping_v18.7.0.100_apkpure.com.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NYP1/NYP1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NYP1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NYP1/src/apps/nyp.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NYP1/src/main/java/home/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NYP1/src/test/java/articles/ArticleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NYP1/src/test/resources/NYPTestRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/UICatalog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/AlertsPage/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/ButtonsPage/ButtonPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/ImagesPage/ImagesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/PickersPage/PickerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/SearchBarPage/SearchBarPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/SegmentsPage/SegmentsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/TextFieldsPage/TextFieldsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/TextViewPage/TextViewPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/ToolbarPage/ToolBarPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/TransitionsPage/TransitionsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/UiCatalogPage/UiCatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/WebPage/WebPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/controlspage/ControlsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/navigate/NavigateUiPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/PickerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UICatalog/src/test/resources/UICatalogTestRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crricBuzz/crricBuzz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crricBuzz/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crricBuzz/src/app/Cricbuzz.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crricBuzz/src/main/java/cricbuzzhomepage/CricBuzzHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crricBuzz/src/test/java/testcricbuzzhomepage/TestCricBuzzHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crricBuzz/src/test/resources/cricBuzzTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/googlesheets/GoogleSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/secret.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UICatalog/src/main/java/HomePageTabs/HomePageTabs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UICatalog/src/test/java/newTransitionPage/TestTransitionPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UICatalog/src/test/java/testControlPage/TestControlPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UICatalog/src/test/java/testHomepagetabs/TestHomePageTabs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricBuzz/cricBuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricBuzz/src/main/java/cricbuzzhomepage/CricBuzzHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricBuzz/src/main/java/settingPage/SettingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricBuzz/src/test/java/testsettingpage/TestSettingPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MySample/FaceBook/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MySample/FaceBook/src/main/java/excleFb/ExcleFacebook.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MySample/FaceBook/src/test/java/testing/TestExcel.java" afterDir="false" />
@@ -163,6 +144,26 @@
       <change afterPath="$PROJECT_DIR$/../src/homePractice/Home.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../src/homePractice/Program.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../webAutomation/Generic/target/NetFliex-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/common/MobileAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/common/MobileAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/TransitionsPage/TransitionsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/main/java/TransitionsPage/TransitionsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/controlspage/ControlsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/main/java/controlspage/ControlsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/PickerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/PickerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/resources/UICatalogTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/test/resources/UICatalogTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crricBuzz/crricBuzz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crricBuzz/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cricBuzz/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crricBuzz/src/app/Cricbuzz.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cricBuzz/src/app/Cricbuzz.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crricBuzz/src/main/java/cricbuzzhomepage/CricBuzzHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crricBuzz/src/test/java/testcricbuzzhomepage/TestCricBuzzHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/cricBuzz/src/test/java/testcricbuzzhomepage/TestCricBuzzHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crricBuzz/src/test/resources/cricBuzzTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cricBuzz/src/test/resources/cricBuzzTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crricBuzz/target/classes/cricbuzzhomepage/CricBuzzHomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crricBuzz/target/test-classes/cricBuzzTestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crricBuzz/target/test-classes/testcricbuzzhomepage/TestCricBuzzHomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -185,46 +186,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java">
+        <entry file="file://$PROJECT_DIR$/cricBuzz/src/test/java/testsettingpage/TestSettingPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="808">
-              <caret line="148" selection-start-line="148" selection-end-line="148" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NYP1/src/test/resources/NYPTestRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crricBuzz/src/test/resources/cricBuzzTestRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="58" lean-forward="true" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crricBuzz/src/test/java/testcricbuzzhomepage/TestCricBuzzHomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="538">
+              <caret line="93" column="39" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/crricBuzz/src/main/java/cricbuzzhomepage/CricBuzzHomePage.java">
+        <entry file="file://$PROJECT_DIR$/cricBuzz/src/main/java/settingPage/SettingPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="2610">
+              <caret line="174" column="13" selection-start-line="174" selection-start-column="13" selection-end-line="174" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -239,36 +222,54 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/NYP/pom.xml" />
         <option value="$PROJECT_DIR$/NYP/src/main/java/home/MainPage.java" />
         <option value="$PROJECT_DIR$/NYP/src/test/java/articles/ArticleTest.java" />
         <option value="$PROJECT_DIR$/UICatalog/pom.xml" />
-        <option value="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/PickerTest.java" />
         <option value="$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml" />
         <option value="$PROJECT_DIR$/instagram/pom.xml" />
         <option value="$PROJECT_DIR$/instagram/src/test/java/testHome/TestHomePage.java" />
         <option value="$PROJECT_DIR$/instagram/src/main/java/home/HomePage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/crricBuzz/pom.xml" />
         <option value="$PROJECT_DIR$/NYP1/src/test/java/articles/ArticleTest.java" />
         <option value="$PROJECT_DIR$/NYP1/src/main/java/home/MainPage.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java" />
         <option value="$PROJECT_DIR$/UICatalog/src/main/java/ButtonsPage/ButtonPage.java" />
-        <option value="$PROJECT_DIR$/UICatalog/src/main/java/controlspage/ControlsPage.java" />
         <option value="$PROJECT_DIR$/UICatalog/src/main/java/UiCatalogPage/UiCatalog.java" />
-        <option value="$PROJECT_DIR$/UICatalog/src/test/resources/UICatalogTestRunner.xml" />
-        <option value="$PROJECT_DIR$/AmazonMobileApp/pom.xml" />
         <option value="$PROJECT_DIR$/crricBuzz/src/test/java/testcricbuzzhomepage/TestCricBuzzHomaPage.java" />
-        <option value="$PROJECT_DIR$/crricBuzz/src/test/java/testcricbuzzhomepage/TestCricBuzzHomePage.java" />
         <option value="$PROJECT_DIR$/NYP1/src/test/resources/NYPTestRunner.xml" />
-        <option value="$PROJECT_DIR$/crricBuzz/src/test/resources/cricBuzzTestRunner.xml" />
+        <option value="$PROJECT_DIR$/AmazonMobileApp/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/googlesheets/GoogleSheet.java" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/crricBuzz/src/test/java/testcricbuzzhomepage/TestCricBuzzHomePage.java" />
         <option value="$PROJECT_DIR$/crricBuzz/src/main/java/cricbuzzhomepage/CricBuzzHomePage.java" />
+        <option value="$PROJECT_DIR$/crricBuzz/src/test/java/testdatabasesKeys/KeysMySql.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
+        <option value="$PROJECT_DIR$/crricBuzz/src/test/resources/cricBuzzTestRunner.xml" />
+        <option value="$PROJECT_DIR$/UICatalog/src/main/java/TransitionsPage/TransitionsPage.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/test/java/testteabsitionpage/TestTransitionPage.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/PickerTest.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/main/java/HomePageTabs/HomePageTabs.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/test/java/testHomepagetabs/TestHomePageTabes.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/test/java/testHomepagetabs/TestHomePageTabs.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/test/java/testTransitionPage/TestTransitionPage.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/test/java/newTransitionPage/TestTransitionPage.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/test/resources/UICatalogTestRunner.xml" />
+        <option value="$PROJECT_DIR$/crricBuzz/src/main/java/cricbuzzDB/KeyWordDriven.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/test/java/testControlPage/TestControlPage.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/main/java/controlspage/ControlsPage.java" />
+        <option value="$PROJECT_DIR$/crricBuzz/src/test/java/testsettingpage/TestSettingPage.java" />
+        <option value="$PROJECT_DIR$/crricBuzz/src/main/java/settingPage/SettingPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cricBuzz/src/test/java/testsettingpage/TestSettingPage.java" />
+        <option value="$PROJECT_DIR$/cricBuzz/src/main/java/settingPage/SettingPage.java" />
       </list>
     </option>
   </component>
@@ -279,10 +280,29 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MobileAutomationGroup3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MobileAutomationGroup3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="59" />
-    <option name="y" value="23" />
-    <option name="width" value="1262" />
+    <option name="x" value="50" />
+    <option name="y" value="89" />
+    <option name="width" value="1333" />
     <option name="height" value="811" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -291,6 +311,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,129 +323,50 @@
             <path>
               <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
               <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="crricBuzz" type="462c0819:PsiDirectoryNode" />
+              <item name="cricBuzz" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
               <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="crricBuzz" type="462c0819:PsiDirectoryNode" />
+              <item name="cricBuzz" type="462c0819:PsiDirectoryNode" />
+              <item name="Extent-Report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="cricBuzz" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="crricBuzz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="crricBuzz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="crricBuzz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="crricBuzz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cricbuzzhomepage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="crricBuzz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="crricBuzz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="crricBuzz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testcricbuzzhomepage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="crricBuzz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="NYP1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="NYP1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="NYP1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="NYP1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554428224909" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554485380530" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+      <recent name="$PROJECT_DIR$/instagram/src/app" />
+      <recent name="$PROJECT_DIR$/NYP/src/app" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="googlesheets" />
+      <recent name="utility" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/UICatalog/src/test/java" />
+      <recent name="$PROJECT_DIR$/UICatalog/src/test/testTransitionPage" />
       <recent name="$PROJECT_DIR$/AmazonMobileApp/src/app" />
       <recent name="$PROJECT_DIR$/crricBuzz/src/test" />
       <recent name="$PROJECT_DIR$/crricBuzz/src/app" />
-      <recent name="$PROJECT_DIR$/UICatalog/src/test" />
-      <recent name="$PROJECT_DIR$/NYP/src/test" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/instagram/src/app" />
-      <recent name="$PROJECT_DIR$/NYP/src/app" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -486,20 +429,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/jewal/IntelliJ/MobileAutomationGroup3/NYP1/src/test/resources/NYPTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="NYP1" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/NYP1/src/test/resources/NYPTestRunner.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+    <configuration name="KeysMySql.testDB" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cricBuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testdatabasesKeys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testdatabasesKeys" />
+      <option name="MAIN_CLASS_NAME" value="testdatabasesKeys.KeysMySql" />
+      <option name="METHOD_NAME" value="testDB" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/jewal/IntelliJ/MobileAutomationGroup3/NYP/src/test/resources/NYPTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="NYP1" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+    <configuration name="TestCricBuzzHomePage.testScrollingToBottom" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cricBuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcricbuzzhomepage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcricbuzzhomepage" />
+      <option name="MAIN_CLASS_NAME" value="testcricbuzzhomepage.TestCricBuzzHomePage" />
+      <option name="METHOD_NAME" value="testScrollingToBottom" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCricBuzzHomePage.testSettingBtn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cricBuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcricbuzzhomepage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcricbuzzhomepage" />
+      <option name="MAIN_CLASS_NAME" value="testcricbuzzhomepage.TestCricBuzzHomePage" />
+      <option name="METHOD_NAME" value="testSettingBtn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCricBuzzHomePage.testTopStories" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cricBuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcricbuzzhomepage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcricbuzzhomepage" />
+      <option name="MAIN_CLASS_NAME" value="testcricbuzzhomepage.TestCricBuzzHomePage" />
+      <option name="METHOD_NAME" value="testTopStories" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -507,7 +502,7 @@
       </method>
     </configuration>
     <configuration name="/Users/jewal/IntelliJ/MobileAutomationGroup3/crricBuzz/src/test/resources/cricBuzzTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="crricBuzz" />
+      <module name="cricBuzz" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/crricBuzz/src/test/resources/cricBuzzTestRunner.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
@@ -519,8 +514,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/jewal/IntelliJ/MobileAutomationGroup3/crricBuzz/src/test/resources/cricBuzzTestRunner.xml" />
-        <item itemvalue="TestNG./Users/jewal/IntelliJ/MobileAutomationGroup3/NYP1/src/test/resources/NYPTestRunner.xml" />
-        <item itemvalue="TestNG./Users/jewal/IntelliJ/MobileAutomationGroup3/NYP/src/test/resources/NYPTestRunner.xml" />
+        <item itemvalue="TestNG.KeysMySql.testDB" />
+        <item itemvalue="TestNG.TestCricBuzzHomePage.testSettingBtn" />
+        <item itemvalue="TestNG.TestCricBuzzHomePage.testScrollingToBottom" />
+        <item itemvalue="TestNG.TestCricBuzzHomePage.testTopStories" />
       </list>
     </recent_temporary>
   </component>
@@ -538,42 +535,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_jewal_IntelliJ_MobileAutomationGroup3_NYP1_src_test_resources_NYPTestRunner_xml - 2019.04.04 at 15h 56m 02s.xml">
-      <configuration name="/Users/jewal/IntelliJ/MobileAutomationGroup3/NYP1/src/test/resources/NYPTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="KeysMySql_testDB - 2019.04.05 at 01h 07m 45s.xml">
+      <configuration name="KeysMySql.testDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_MobileAutomationGroup3_NYP1_src_test_resources_NYPTestRunner_xml - 2019.04.04 at 15h 56m 35s.xml">
-      <configuration name="/Users/jewal/IntelliJ/MobileAutomationGroup3/NYP1/src/test/resources/NYPTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="KeysMySql_testDB - 2019.04.05 at 01h 09m 39s.xml">
+      <configuration name="KeysMySql.testDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_MobileAutomationGroup3_NYP1_src_test_resources_NYPTestRunner_xml - 2019.04.04 at 15h 59m 10s.xml">
-      <configuration name="/Users/jewal/IntelliJ/MobileAutomationGroup3/NYP1/src/test/resources/NYPTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="KeysMySql_testDB - 2019.04.05 at 01h 10m 29s.xml">
+      <configuration name="KeysMySql.testDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_MobileAutomationGroup3_NYP1_src_test_resources_NYPTestRunner_xml - 2019.04.04 at 15h 59m 30s.xml">
-      <configuration name="/Users/jewal/IntelliJ/MobileAutomationGroup3/NYP1/src/test/resources/NYPTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="KeysMySql_testDB - 2019.04.05 at 01h 11m 32s.xml">
+      <configuration name="KeysMySql.testDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_MobileAutomationGroup3_NYP1_src_test_resources_NYPTestRunner_xml - 2019.04.04 at 16h 03m 41s.xml">
-      <configuration name="/Users/jewal/IntelliJ/MobileAutomationGroup3/NYP1/src/test/resources/NYPTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="TestCricBuzzHomePage_testSettingBtn - 2019.04.05 at 01h 12m 20s.xml">
+      <configuration name="TestCricBuzzHomePage.testSettingBtn" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_MobileAutomationGroup3_NYP1_src_test_resources_NYPTestRunner_xml - 2019.04.04 at 16h 05m 22s.xml">
-      <configuration name="/Users/jewal/IntelliJ/MobileAutomationGroup3/NYP1/src/test/resources/NYPTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="KeysMySql_testDB - 2019.04.05 at 01h 14m 50s.xml">
+      <configuration name="KeysMySql.testDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_MobileAutomationGroup3_NYP1_src_test_resources_NYPTestRunner_xml - 2019.04.04 at 20h 07m 56s.xml">
-      <configuration name="/Users/jewal/IntelliJ/MobileAutomationGroup3/NYP1/src/test/resources/NYPTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="KeysMySql_testDB - 2019.04.05 at 01h 17m 39s.xml">
+      <configuration name="KeysMySql.testDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_MobileAutomationGroup3_crricBuzz_src_test_resources_cricBuzzTestRunner_xml - 2019.04.04 at 21h 30m 26s.xml">
+    <history-entry file="KeysMySql_testDB - 2019.04.05 at 01h 19m 16s.xml">
+      <configuration name="KeysMySql.testDB" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_jewal_IntelliJ_MobileAutomationGroup3_crricBuzz_src_test_resources_cricBuzzTestRunner_xml - 2019.04.05 at 01h 21m 02s.xml">
       <configuration name="/Users/jewal/IntelliJ/MobileAutomationGroup3/crricBuzz/src/test/resources/cricBuzzTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_MobileAutomationGroup3_NYP1_src_test_resources_NYPTestRunner_xml - 2019.04.04 at 21h 32m 02s.xml">
-      <configuration name="/Users/jewal/IntelliJ/MobileAutomationGroup3/NYP1/src/test/resources/NYPTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_MobileAutomationGroup3_crricBuzz_src_test_resources_cricBuzzTestRunner_xml - 2019.04.04 at 21h 34m 02s.xml">
+    <history-entry file="_Users_jewal_IntelliJ_MobileAutomationGroup3_crricBuzz_src_test_resources_cricBuzzTestRunner_xml - 2019.04.05 at 01h 23m 59s.xml">
       <configuration name="/Users/jewal/IntelliJ/MobileAutomationGroup3/crricBuzz/src/test/resources/cricBuzzTestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="23" width="1262" height="811" extended-state="0" />
-    <editor active="true" />
+    <frame x="50" y="89" width="1333" height="811" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29239303" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2773044" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -582,12 +578,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.47567567" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3364865" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42002782" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.12378303" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.11404729" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32972974" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -596,36 +592,65 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Codota" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.14717273" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17660728" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4993046" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3364865" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.11404729" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32972974" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Codota" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.14717273" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java</url>
-          <line>113</line>
+          <line>183</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java</url>
-          <line>114</line>
+          <line>184</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java</url>
-          <line>125</line>
+          <line>195</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java</url>
-          <line>126</line>
+          <line>196</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -633,77 +658,12 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NYP1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.6/testng-6.9.6.jar!/org/testng/Reporter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.6/testng-6.9.6.jar!/org/testng/internal/invokers/InvokedMethodListenerSubtype.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.6/testng-6.9.6.jar!/org/testng/internal/invokers/InvokedMethodListenerInvoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.6/testng-6.9.6.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="360" selection-start-line="360" selection-end-line="360" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instagram/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/instagram/src/test/java/testHome/TestHomePage.java" />
     <entry file="file://$PROJECT_DIR$/instagram/instagram.iml" />
     <entry file="file://$PROJECT_DIR$/instagram/src/main/java/home/HomePage.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crricBuzz/pom.xml">
+    <entry file="file://$PROJECT_DIR$/cricBuzz/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/java/iPhone/PickerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -711,13 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
           <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NYP1/src/main/java/home/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2625">
-          <caret line="175" column="21" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -739,13 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/controlspage/ControlsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -805,13 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/TransitionsPage/TransitionsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/WebPage/WebPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -819,59 +758,222 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/UiCatalogPage/UiCatalog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/resources/UICatalogTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AmazonMobileApp/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="808">
-          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        <state relative-caret-position="285">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NYP1/src/test/resources/NYPTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crricBuzz/src/test/resources/cricBuzzTestRunner.xml">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="58" lean-forward="true" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crricBuzz/src/test/java/testcricbuzzhomepage/TestCricBuzzHomePage.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="128">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crricBuzz/src/main/java/cricbuzzhomepage/CricBuzzHomePage.java">
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="296">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googlesheets/GoogleSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/secret.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="23" column="121" selection-start-line="23" selection-start-column="121" selection-end-line="23" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cricBuzz/src/test/java/testcricbuzzhomepage/TestCricBuzzHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cricBuzz/src/test/java/testdatabasesKeys/KeysMySql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.6/testng-6.9.6-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.6/testng-6.9.6-sources.jar!/org/testng/internal/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="523" selection-start-line="523" selection-end-line="523" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cricBuzz/src/test/resources/cricBuzzTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="168" column="59" selection-start-line="168" selection-start-column="49" selection-end-line="168" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP1/src/main/java/home/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="76" column="22" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/TransitionsPage/TransitionsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/java/testTransitionPage/TestTransitionPage.java" />
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/java/newTransitionPage/TestTransitionPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/resources/UICatalogTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/java/testControlPage/TestControlPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/java/iPhone/PickerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/HomePageTabs/HomePageTabs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="115" selection-start-line="86" selection-start-column="115" selection-end-line="86" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/java/testHomepagetabs/TestHomePageTabs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/UiCatalogPage/UiCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/controlspage/ControlsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="35" column="67" selection-start-line="35" selection-start-column="67" selection-end-line="35" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cricBuzz/src/main/java/cricbuzzDB/KeyWordDriven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cricBuzz/src/main/java/cricbuzzhomepage/CricBuzzHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="48" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cricBuzz/src/test/java/testsettingpage/TestSettingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="93" column="39" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cricBuzz/src/main/java/settingPage/SettingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2610">
+          <caret line="174" column="13" selection-start-line="174" selection-start-column="13" selection-end-line="174" selection-end-column="13" />
         </state>
       </provider>
     </entry>

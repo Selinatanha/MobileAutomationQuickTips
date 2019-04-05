@@ -6,9 +6,9 @@ import common.MobileAPI;
  * Created by Bilal on 24-01-2017.
  */
 public class PickerTest extends MobileAPI {
-//    String[] pickerName = {"Chris Armstrong","3"};
-//    String[] pickerDate = {"March","10","2018"};
-//    public Picker picker(){
+    String[] pickerName = {"Chris Armstrong","3"};
+    String[] pickerDate = {"March","10","2018"};
+//    public void picker(){
 //        UiCatalog uiCatalog = PageFactory.initElements(ad, UiCatalog.class);
 //        uiCatalog.getPickers();
 //        return PageFactory.initElements(ad, Picker.class);

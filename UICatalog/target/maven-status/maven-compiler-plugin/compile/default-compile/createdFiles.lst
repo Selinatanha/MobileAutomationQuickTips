@@ -1,0 +1,15 @@
+ButtonsPage/ButtonPage.class
+ToolbarPage/ToolBarPage.class
+TransitionsPage/TransitionsPage.class
+SegmentsPage/SegmentsPage.class
+TextViewPage/TextViewPage.class
+ButtonsPage/ButtonPage$Buttons.class
+SearchBarPage/SearchBarPage.class
+navigate/NavigateUiPage.class
+AlertsPage/Alerts.class
+ImagesPage/ImagesPage.class
+WebPage/WebPage.class
+TextFieldsPage/TextFieldsPage.class
+UiCatalogPage/UiCatalog.class
+controlspage/ControlsPage.class
+PickersPage/PickerPage.class
