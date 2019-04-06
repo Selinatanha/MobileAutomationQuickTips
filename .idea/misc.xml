@@ -9,11 +9,14 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/AmazonMobileApp/pom.xml" />
+        <option value="$PROJECT_DIR$/NYP1/pom.xml" />
+        <option value="$PROJECT_DIR$/UICatalog/pom.xml" />
         <option value="$PROJECT_DIR$/instagram/pom.xml" />
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8.0_172" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

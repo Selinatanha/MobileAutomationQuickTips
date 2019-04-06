@@ -37,6 +37,7 @@ public class GoogleSheet {
 
     /**
      * Creates an authorized Credential object.
+     *
      * @param HTTP_TRANSPORT The network HTTP Transport.
      * @return An authorized Credential object.
      * @throws IOException If the credentials.json file cannot be found.
@@ -80,7 +81,7 @@ public class GoogleSheet {
             System.out.println("Name, Major");
             for (List row : values) {
                 // Print columns A and E, which correspond to indices 0 and 4.
-                System.out.printf("%s, %s\n", row.get(0)+" \t ",row.get(2));
+                System.out.printf("%s, %s\n", row.get(0) + " \t ", row.get(2));
             }
         }
     }
